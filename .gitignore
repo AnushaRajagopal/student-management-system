@@ -1,0 +1,7 @@
+Backend/target/
+frontend/node_modules/
+frontend/build/
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
